@@ -14,12 +14,19 @@ This project demonstrates practical data analytics skills including data cleanin
 ## 🛠️ Tools & Technologies
 
 Python
+
 pandas
+
 numpy
+
 matplotlib
+
 seaborn
+
 Power BI
+
 Excel (Data Source)
+
 GitHub (Version Control & Portfolio)
 
 ---
@@ -27,6 +34,7 @@ GitHub (Version Control & Portfolio)
 ## 📂 Dataset
 
 Source: Superstore dataset (Excel)
+
 File Used: superstore_final_dataset.xlsx
 
 ---
@@ -34,9 +42,13 @@ File Used: superstore_final_dataset.xlsx
 ### Key Columns:
 
 Order Date, Ship Date
+
 Sales
+
 Category, Sub-Category
+
 Region, Segment
+
 Customer Name
 
 ⚠️ Note: Since the dataset did not include a profit column, profit was estimated using a fixed profit margin for analytical purposes.
@@ -88,16 +100,27 @@ Visualized using a heatmap to understand relationships between sales-related fac
 ### Dashboard Highlights:
 
 KPIs
+
 Total Sales
+
 Total Profit
+
 Total Orders
+
 Total Customers
+
 Visuals Included
+
 Monthly Sales Trend
+
 Profit Contribution by Region
+
 Sales vs Profit Scatter Plot
+
 Sales & Profit by Category
+
 Top Sub-Categories by Sales
+
 The dashboard enables quick decision-making by presenting insights in a clean, interactive, and business-focused layout.
 
 ---
@@ -105,10 +128,15 @@ The dashboard enables quick decision-making by presenting insights in a clean, i
 ## 💡 Key Business Insights
 
 Technology category generates the highest profit
+
 Furniture shows high sales but comparatively lower profitability
+
 West region is the most profitable market
+
 Strong positive relationship between sales and profit
+
 Top customers contribute a significant portion of overall revenue
+
 Yearly sales trend indicates business growth
 
 ---
@@ -116,7 +144,9 @@ Yearly sales trend indicates business growth
 ## 🚀 How to Use This Project
 
 Run the Python script/notebook to perform analysis
+
 Use the cleaned dataset for Power BI visualization
+
 Explore the dashboard to gain actionable business insights
 
 ---
@@ -124,8 +154,11 @@ Explore the dashboard to gain actionable business insights
 ## 🎯 Learning Outcomes
 
 Hands-on experience with real-world data
+
 Business-oriented data analysis approach
+
 Python + Power BI integration
+
 Storytelling through dashboards
 
 ---
@@ -133,5 +166,7 @@ Storytelling through dashboards
 ## 👤 Author
 
 Rana Daniyal
+
 Aspiring Data Analyst
+
 Skilled in Python, Power BI, and Business Analytics
