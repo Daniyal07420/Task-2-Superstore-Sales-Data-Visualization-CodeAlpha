@@ -58,39 +58,63 @@ Customer Name
 ## 🔍 Python Analysis (EDA & Business Analysis)
 
 1️⃣ Data Cleaning & Preparation
+
 Checked dataset shape and structure
+
 Handled missing values and duplicates
+
 Converted Order_Date and Ship_Date into datetime format
+
 Verified data types for accurate analysis
 
 2️⃣ Descriptive Sales Analysis
+
 Total Sales Calculation
+
 Sales breakdown by:
+
 Category
+
 Sub-Category
+
 Region
+
 Segment
+
 Bar charts used to identify top-performing dimensions
 
 3️⃣ Profitability Analysis
+
 Estimated Profit using a 25% profit margin
+
 Profit analysis by:
+
 Category
+
 Sub-Category (Top 10)
+
 Region
+
 Identified high-sales but relatively low-profit areas
 
 4️⃣ Time Series Analysis
+
 Yearly sales trend analysis using resampling
+
 Identified consistent sales growth over time
 
 5️⃣ Customer & Segment Analysis
+
 Sales contribution by customer segments
+
 Top 10 customers by total sales
+
 Average sales per customer
 
 6️⃣ Correlation Analysis
+
 Correlation matrix for numeric variables
+
 Visualized using a heatmap to understand relationships between sales-related factors
 
 ---
